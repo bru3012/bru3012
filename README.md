@@ -1,15 +1,14 @@
-### Olá! eu sou o bruno custodio
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hello World</h1>
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">Meu Nome é Bruno tenho 26 anos e moro em leme/sp.</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">sobre mim</h2>
 
 ###
 
