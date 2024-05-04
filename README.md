@@ -6,12 +6,9 @@
 
 <p align="center">Meu nome é Bruno Custódio, tenho 26 anos e sou estudante de Sistemas de Informação. Resido em Leme, São Paulo. Tenho como hobbies a música, jogos e aprender sobre tecnologias. Estou sempre buscando oportunidades para expandir meus conhecimentos e habilidades, especialmente na área da tecnologia. Estou ansioso para explorar novas experiências e desafios que me ajudem a crescer pessoal e profissionalmente.
 </p>
-
 ###
 
 <h2 align="left">Minhas redes sociais:</h2>
-
-###
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -28,11 +25,11 @@
 
 ###
 
-<h2 align="left">Portfolio</h2>
+<h2 align="center">Portfolio</h2>
 
 ###
 
-<h2 align="left">Skills:</h2>
+<h2 align="center">Skills:</h2>
 
 ###
 
