@@ -8,7 +8,11 @@
 
 <h2 align="left">Sobre Mim</h2>
 
-###
+<p>Meu nome é Bruno Custódio, tenho 26 anos e sou estudante de Sistemas de Informação. Resido em Leme, São Paulo. Tenho como hobbies a música, jogos e aprender sobre tecnologias. Estou sempre buscando oportunidades para expandir meus conhecimentos e habilidades, especialmente na área da tecnologia. Estou ansioso para explorar novas experiências e desafios que me ajudem a crescer pessoal e profissionalmente.
+
+
+
+</p>
 
 <p align="left">✨ cursando sistemas de informações<br>📚 no momento somente estudando <br>🎲 hobbies: adoro jogar,ouvir musica</p>
 
