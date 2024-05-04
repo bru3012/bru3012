@@ -6,7 +6,9 @@
 
 <p align="center">Meu nome é Bruno Custódio, tenho 26 anos e sou estudante de Sistemas de Informação. Resido em Leme, São Paulo. Tenho como hobbies a música, jogos e aprender sobre tecnologias. Estou sempre buscando oportunidades para expandir meus conhecimentos e habilidades, especialmente na área da tecnologia. Estou ansioso para explorar novas experiências e desafios que me ajudem a crescer pessoal e profissionalmente.
 </p>
+
 ###
+
 
 <h2 align="left">Minhas redes sociais:</h2>
 
@@ -31,8 +33,6 @@
 
 <h2 align="center">Skills:</h2>
 
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -54,7 +54,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="200" src="[https://i.imgflip.com/65efzo.gif](https://wallpaperaccess.com/full/849790.gif)"  />
 </div>
 
 ###
