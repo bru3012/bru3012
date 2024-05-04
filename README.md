@@ -6,12 +6,6 @@
 <p align="center">Meu nome é Bruno Custódio, tenho 26 anos e sou estudante de Sistemas de Informação. Resido em Leme, São Paulo. Tenho como hobbies a música, jogos e aprender sobre tecnologias. Estou sempre buscando oportunidades para expandir meus conhecimentos e habilidades, especialmente na área da tecnologia. Estou ansioso para explorar novas experiências e desafios que me ajudem a crescer pessoal e profissionalmente.
 </p>
 </div>
-
-
-
-
-
-
 <div align="center">
   <h2 align="center">Minhas redes sociais:</h2>
   <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
@@ -19,14 +13,12 @@
   <img src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   <img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><br>
   <img src="https://github-readme-stats.vercel.app/api?username=bru3012&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-
 </div>
  
 
-
+<div>
 <h2 align="center">Portfolio</h2><br>
-
-
+</div>
 
 
 
