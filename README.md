@@ -10,9 +10,10 @@
 
 
 
-<h2 align="center">Minhas redes sociais:</h2>
+
 
 <div align="center">
+  <h2 align="center">Minhas redes sociais:</h2>
   <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
  alt="linkedin logo"  />
   <img src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
