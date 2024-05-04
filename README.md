@@ -1,6 +1,6 @@
 <h1 align="center">Seja bem-vindo ao meu GitHub! 🚀</h1>
 
-###
+<hr>
 
 <h2 align="center">Sobre Mim</h2>
 
@@ -9,7 +9,7 @@
 
 
 
-###
+<hr>
 
 
 <div align="center">
@@ -26,7 +26,7 @@
 
 <h2 align="center">Portfolio</h2><br>
 
-###
+<hr>
 
 <h2 align="center">Skills:</h2><br>
 
