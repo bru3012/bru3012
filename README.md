@@ -1,8 +1,4 @@
-<h1 align="left">Hello World</h1>
-
-###
-
-<p align="left">Meu name é Bruno tenho 26 anos e moro em leme/sp</p>
+<h1 align="center">Hello World</h1>
 
 ###
 
