@@ -19,10 +19,6 @@
   <img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </div>
 
-
-
-
-
 ###
 
 <h2 align="center">Portfolio</h2>
@@ -51,7 +47,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bru3012&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 
-###
+### a 
 
 <div align="center">
   <img height="200" src=https://wallpapercave.com/wp/wp11383218.gif  />
